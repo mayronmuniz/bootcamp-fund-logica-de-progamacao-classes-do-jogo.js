@@ -41,6 +41,7 @@ Efeitos Sonoros: Feedback auditivo personalizado para cada tipo de ataque via We
 Você pode acessar a aplicação rodando diretamente no seu navegador através do GitHub Pages:
 
 🔗 Clique aqui para acessar o Projeto Online
+[https://mayronmuniz.github.io/bootcamp-fund-logica-de-progamacao-classes-do-jogo.js/]
 
 💻 Rodando Localmente
 
